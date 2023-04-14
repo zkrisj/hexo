@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zkrisj.github.io/hexo/sitemap.xml

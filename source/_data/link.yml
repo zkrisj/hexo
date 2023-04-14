@@ -1,0 +1,19 @@
+- class_name: 友情链接
+  class_desc: 有朋自远方来
+  link_list:
+    - name: 掘金主页
+      link: https://juejin.cn/user/2208296065832264
+      descr: 怕什么真理无穷，进一寸有一寸的欢喜。
+      avatar: https://cdn.jsdelivr.net/gh/youngjuning/images/202109211729538.png
+    - name: GitHub 主页
+      link: https://github.com/zkrisj
+      descr: 怕什么真理无穷，进一寸有一寸的欢喜。
+      avatar: https://cdn.jsdelivr.net/gh/youngjuning/images/202109211729538.png
+    - name: GitHub Pages
+      link: https://zkrisj.github.io/vitepress-blog/
+      descr: 怕什么真理无穷，进一寸有一寸的欢喜。
+      avatar: https://cdn.jsdelivr.net/gh/youngjuning/images/202109211729538.png
+    - name: Gitee Pages
+      link: https://zkrisj.gitee.io/
+      descr: 怕什么真理无穷，进一寸有一寸的欢喜。
+      avatar: https://cdn.jsdelivr.net/gh/youngjuning/images/202109211729538.png
