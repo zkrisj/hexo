@@ -14,7 +14,7 @@ menu:
   # About: /about/ || fas fa-heart
 
 nav:
-  logo: https://avatars.githubusercontent.com/u/8282645?v=4 # image
+  logo: https://avatars.githubusercontent.com/u/43935236?v=4 # image
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -81,11 +81,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://avatars.githubusercontent.com/u/8282645?v=4
+favicon: https://avatars.githubusercontent.com/u/43935236?v=4
 
 # Avatar (頭像)
 avatar:
-  img: https://avatars.githubusercontent.com/u/8282645?v=4
+  img: https://avatars.githubusercontent.com/u/43935236?v=4
   effect: false
 
 # Disable all banner image
